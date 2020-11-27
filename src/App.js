@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import FacebookLogin from 'react-facebook-login';
+//import FacebookLogin from 'react-facebook-login';
 class App extends React.Component{
   render(){
     return(
