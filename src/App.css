@@ -39,3 +39,11 @@
 .main_head{
   align-items: center;
 }
+.loginButton{
+  position:absolute; 
+  top:0; 
+  right:0;
+
+  
+  
+}

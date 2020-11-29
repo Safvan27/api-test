@@ -10,7 +10,7 @@ const componentClicked=(data)=>{
 class App extends React.Component{
   render(){
     return(
-      <div><h1>Login with facebook</h1>
+      <div className="loginButton">
       <FacebookLogin
       appId="1021372718401293"
       autoLoad={false}
